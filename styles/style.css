@@ -11,3 +11,21 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.fulldiv {
+  margin: 100px;
+  display: flex;
+
+}
+
+.rowOne-colTwo {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.rowOne-colTwo-rowTwo {
+  background-color: white;
+  box-shadow: 10px 5px 5px black;
+  padding: 50px;
+}
