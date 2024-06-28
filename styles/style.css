@@ -7,4 +7,7 @@ light blue: #1c5380
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
+  background: url(https://superspec.com/wp-content/uploads/2021/06/Vin-13-31x43-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
